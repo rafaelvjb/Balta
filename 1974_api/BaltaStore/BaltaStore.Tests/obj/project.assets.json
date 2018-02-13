@@ -5627,11 +5627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\git\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+      "projectUniqueName": "C:\\src\\GIT\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
       "projectName": "BaltaStore.Tests",
-      "projectPath": "C:\\src\\git\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
+      "projectPath": "C:\\src\\GIT\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Tests\\BaltaStore.Tests.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\git\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Tests\\obj\\",
+      "outputPath": "C:\\src\\GIT\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

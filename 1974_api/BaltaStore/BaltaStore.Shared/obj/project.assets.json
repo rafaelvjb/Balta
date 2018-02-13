@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\git\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+      "projectUniqueName": "C:\\src\\GIT\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
       "projectName": "BaltaStore.Shared",
-      "projectPath": "C:\\src\\git\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
+      "projectPath": "C:\\src\\GIT\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Shared\\BaltaStore.Shared.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\git\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Shared\\obj\\",
+      "outputPath": "C:\\src\\GIT\\rafaelvjb\\Balta\\Balta\\1974_api\\BaltaStore\\BaltaStore.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
