@@ -1,0 +1,11 @@
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\src\GIT\rafaelvjb\Balta\dominiosricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojResolveAssemblyReference.cache
